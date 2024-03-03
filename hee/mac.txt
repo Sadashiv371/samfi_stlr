@@ -1,0 +1,4 @@
+
+Physical Address    Transport Name                                            
+=================== ==========================================================
+08-00-27-BB-AF-6F   \Device\Tcpip_{AA3A2A73-EBD6-4C0C-A184-EA13300A20A2}      
